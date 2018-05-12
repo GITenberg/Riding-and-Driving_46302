@@ -1,0 +1,39 @@
+_repo: Riding-and-Driving_46302
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Tailer, T. Suffern
+    gutenberg_agent_id: '46669'
+    url: http://www.gutenberg.org/2009/agents/46669
+covers:
+- cover_type: archival
+  image_path: 46302-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Collier, Price
+    birthdate: 1860
+    deathdate: 1913
+    gutenberg_agent_id: '8416'
+    url: http://www.gutenberg.org/2009/agents/8416
+  - agent_name: Anderson, Edward L. (Edward Lowell)
+    alias: Anderson, E. L. (Edward Lowell)
+    birthdate: 1842
+    deathdate: 1916
+    gutenberg_agent_id: '43711'
+    url: http://www.gutenberg.org/2009/agents/43711
+description: ''
+gutenberg_issued: '2014-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46302'
+  lccn: '05013551'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Driving of horse-drawn vehicles'
+- !lcsh 'Horsemanship'
+- !lcc 'SF'
+title: Riding and Driving
+url: http://www.gutenberg.org/ebooks/46302
